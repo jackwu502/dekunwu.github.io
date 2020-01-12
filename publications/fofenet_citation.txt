@@ -1,0 +1,17 @@
+@article{DBLP:journals/corr/abs-1903-12356,
+  author    = {Dekun Wu and
+               Nana Nosirova and
+               Hui Jiang and
+               Mingbin Xu},
+  title     = {A General FOFE-net Framework for Simple and Effective Question Answering
+               over Knowledge Bases},
+  journal   = {CoRR},
+  volume    = {abs/1903.12356},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1903.12356},
+  archivePrefix = {arXiv},
+  eprint    = {1903.12356},
+  timestamp = {Tue, 02 Apr 2019 12:29:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1903-12356},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
