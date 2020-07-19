@@ -1,0 +1,8 @@
+@misc{cheng2020knowledge,
+    title={Knowledge Graph Empowered Entity Description Generation},
+    author={Liying Cheng and Yan Zhang and Dekun Wu and Zhanming Jie and Lidong Bing and Wei Lu and Luo Si},
+    year={2020},
+    eprint={2004.14813},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
